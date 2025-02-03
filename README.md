@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Scala: unhandled exceptions. The `bug.scala` file contains a method that throws an `IllegalArgumentException` without proper error handling. This can lead to unexpected program crashes. The `bugSolution.scala` shows an improved version using `Option` for better error management.
